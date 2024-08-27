@@ -20,4 +20,5 @@
 <script type="text/javascript">
     gantt.init("gantt_here");
 </script>
+    <p>hello world</p>
 </body>
